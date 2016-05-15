@@ -1,0 +1,8 @@
+
+# IntelliJ artifacts in Mail...
+Mail/.idea/workspace.xml
+Mail/MailFlux/doc/javadoc
+Mail/MailStop/src/build
+Mail/build
+
+News/.idea/workspace.xml
