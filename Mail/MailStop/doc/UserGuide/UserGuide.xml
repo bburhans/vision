@@ -16,7 +16,7 @@
 
 <!-- FILE   : UserGuide.xml
      SUBJECT: Master document for the MailStop User Guide.
-     AUTHOR : (C) Copyright 2014 by Peter C. Chapin
+     AUTHOR : (C) Copyright 2017 by Peter C. Chapin
 
 This is the documentation is for MailStop users. -->
 <book status="draft">
@@ -34,7 +34,7 @@ This is the documentation is for MailStop users. -->
     </author>
     <authorinitials>pcc</authorinitials>
     <copyright>
-      <year>2014</year>
+      <year>2017</year>
       <holder>Peter C. Chapin</holder>
     </copyright>
     <legalnotice>
@@ -49,7 +49,7 @@ This is the documentation is for MailStop users. -->
     <revhistory>
       <revision>
         <revnumber>0.0</revnumber>
-        <date>2016-01-01</date>
+        <date>2020-01-01</date>
         <authorinitials>pcc</authorinitials>
         <revremark>Initial release (well, not really).</revremark>
       </revision>

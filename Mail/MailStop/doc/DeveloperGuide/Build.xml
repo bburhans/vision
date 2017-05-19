@@ -19,7 +19,7 @@
     <varlistentry>
       <term>Ada Compiler</term>
       <listitem>
-        <para>GNAT GPL 2014. Certain GNAT extensions (mostly GNAT specific library packages and
+        <para>GNAT GPL 2017. Certain GNAT extensions (mostly GNAT specific library packages and
           GNAT's support for SPARK) are used. Currently no other Ada compiler is
           supported.</para>
       </listitem>

@@ -20,4 +20,4 @@ been used in a network programming class at Vermont Technical College where C++ 
 and Java (more recently) are the languages known to the students.
 
 Peter C. Chapin  
-PChapin@vtc.vsc.edu
+peter@pchapin.org

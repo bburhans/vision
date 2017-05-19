@@ -134,7 +134,7 @@
       architecture. Being a well documented open source program, it is my expectation that users
       interested in extending MailStop's functionality will simply modify its source and build
       their own custom version of the program. However, I acknowledge that not all mail experts
-      are necessarily expert programmers. I mentioned in the previous section that MailStop
+      are necessarily programming experts. I mentioned in the previous section that MailStop
       might one day acquire an embedded scripting language to automate some of its functions.
       However, a plugin architecture (perhaps based on shared libraries?) that allows the
       addition of new functionality, as opposed to just scripting existing functionality, might

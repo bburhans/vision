@@ -2,7 +2,7 @@
 MailFlux
 ========
 
-+ Translate MailFlux from Java to Scala, Keep the documentation up to date as this translation
++ Translate MailFlux from C++ to Ada, Keep the documentation up to date as this translation
   proceeds.
 
 
@@ -14,6 +14,10 @@ MailStop
 + Enhance the MailStop documentation to describe the program's requirements and use more
   clearly.
 
+MailTalk
+========
+
++ ???
 
 XEmail
 ======
