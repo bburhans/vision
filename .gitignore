@@ -1,5 +1,11 @@
+# General build artifacts
+*.o
 
+# Build artifacts specific to MailVision
 Mail/MailStop/build
+Mail/MailFlux/Cpp/html
+Mail/MailFlux/Cpp/MailFlux
 
+# Build artifacts specific to NewsVision
 News/.idea/workspace.xml
 News/build
