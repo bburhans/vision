@@ -22,7 +22,7 @@ Please send comments or bug reports to
 
 //! Class to represent a client-oriented endpoint.
 /*!
- * Instances of this class are execute a client side SMTP conversation with a given server.
+ * Instances of this class execute a client side SMTP conversation with a given server.
  * \todo Provide more details.
  */
 class ClientConnection {

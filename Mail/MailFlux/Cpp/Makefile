@@ -5,7 +5,7 @@
 #
 
 # Cygwin doesn't seem to understand the -pthread option. Does that mean it doesn't properly
-# support multithreaded programs or does it mean that -pthread is just redundant on Cygwin?
+# support multi-threaded programs or does it mean that -pthread is just redundant on Cygwin?
 #
 ifdef CYGWIN
 THREAD_FLAGS = 
@@ -15,7 +15,7 @@ THREAD_FLAGS = -pthread
 CURSES_LIB   = -lncurses
 endif
 
-CPPFLAGS=-Wall -g -DDEBUG $(THREAD_FLAGS)
+CPPFLAGS=-Wall -g -DDEBUG -std=c++11 $(THREAD_FLAGS)
 OBJS = MailFlux.o         \
 	ClientConnection.o \
 	config.o           \

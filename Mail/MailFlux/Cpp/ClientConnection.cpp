@@ -33,7 +33,7 @@ istring ClientConnection::line_in()
 {
     istring result;
 
-    while (1) {
+    while (true) {
         if (buffer_index == buffer_size) {
             buffer_size = read(socket_handle, buffer, MAX_BUFFER_SIZE);
             if (buffer_size == 0 || buffer_size == -1) break;

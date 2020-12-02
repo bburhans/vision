@@ -69,7 +69,7 @@ namespace {
 
         FD_ZERO(&the_set);
         FD_SET(0, &the_set);  // Wait for stdin.
-        select(1, &the_set, NULL, NULL, NULL);
+        select(1, &the_set, nullptr, nullptr, nullptr);
         {
             CursesMutex lock;
             wgetstr(interaction, buffer);
