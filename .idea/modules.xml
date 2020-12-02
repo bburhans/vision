@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/News/Jabber/Jabber.iml" filepath="$PROJECT_DIR$/News/Jabber/Jabber.iml" />
       <module fileurl="file://$PROJECT_DIR$/News/Jibber/Jibber.iml" filepath="$PROJECT_DIR$/News/Jibber/Jibber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Mail/MailFlux/MailFlux.iml" filepath="$PROJECT_DIR$/Mail/MailFlux/MailFlux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mail/MailFlux/Java/MailFlux.iml" filepath="$PROJECT_DIR$/Mail/MailFlux/Java/MailFlux.iml" />
     </modules>
   </component>
 </project>
